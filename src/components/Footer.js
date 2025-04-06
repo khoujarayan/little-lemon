@@ -13,10 +13,10 @@ const Footer = () => {
                     <div className="locations">
                         <h5>LOCATIONS</h5>
                         <ul>
-                            <li>Accra</li>
-                            <li>Kumasi</li>
-                            <li>Cape Coast</li>
-                            <li>Tamale</li>
+                            <li>Tunis</li>
+                            <li>La Marsa</li>
+                            <li>Moscow</li>
+                            <li>Saint Pétersbourg</li>
                         </ul>
                     </div>
                     <div className="opening-times">
@@ -30,14 +30,14 @@ const Footer = () => {
                     <div className="contact">
                         <h5>CONTACT US</h5>
                         <ul>
-                            <li>96 Abafom Road, North Ridge - Accra</li>
-                            <li>Tel: 020 7928 0678</li>
+                            <li>Ulitsa Miklukho-Maklaya, Moscow, Russie, 117198</li>
+                            <li>Tel: +7 926 XXX XX XX</li>
                             <li>Email: info@littlelemon.com</li>
                         </ul>
                     </div>
             </div>
             <div className="copyright">
-                <p>© 2023 Little Lemon Ltd. All rights reserved.</p>
+                <p>© 2025 Little Lemon. All rights reserved.</p>
             </div>
         </div>
         </div>

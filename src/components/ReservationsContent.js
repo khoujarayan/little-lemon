@@ -104,7 +104,7 @@ function ReservationsContent() {
                             <label htmlFor="telephone">Telephone</label>
                             <input
                                 type="tel"
-                                placeholder="+233000000000"
+                                placeholder="+7 926 XXX XX XX"
                                 name="telephone"
                                 onChange={onChangeHandler}
                             />
